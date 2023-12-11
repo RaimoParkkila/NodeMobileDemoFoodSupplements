@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "732bfd4b-c7e0-4e40-9c27-8ac8922c7b86"
+      }
+    },
+    "android": {
+      "package": "com.raimo.napitfoodsupplements"
+    }
+  }
+}

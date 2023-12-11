@@ -1,0 +1,30 @@
+{
+
+  "name": "napit",
+  "version": "1.0.0",
+  "food supplements application, for personal control, information, and daily dose plan": "1.0.0",
+  "main": "app.js",
+  "scripts":{
+    "start": "node app.js",
+    "build": "npm install"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@mui/icons-material": "^5.14.18",
+    "expo-camera": "~13.4.4",
+    "expo-font": "~11.4.0",
+    "expo-location": "~16.1.0",
+    "expo-sqlite": "~11.3.3",
+    "expo-status-bar": "~1.6.0",
+    "react-native": "0.72.6",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-modal": "^13.0.1",
+    "react-native-paper": "^5.11.3",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-vector-icons": "^10.0.2",
+    "semver": "^7.5.4"
+  },
+  "devDependencies": {
+    "@types/react-native-vector-icons": "^6.4.18"
+  }
+}
